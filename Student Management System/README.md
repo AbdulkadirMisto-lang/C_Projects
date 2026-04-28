@@ -1,16 +1,12 @@
-# Student Management System in C
+📚 Student Management System in C
 
-This is a simple, professional student management system written in C.  
-It supports adding, viewing, searching, updating, and deleting student records with file persistence.
+A simple file-based Student Management System written in C.
+It allows you to manage student records using binary file storage.
 
-## Features
-- Add new students
-- Display all students
-- Search by ID
-- Update student information
-- Delete student records
-- File-based storage (`students.dat`)
-
-## Compilation
-```bash
-make
+✨ Features
+➕ Add new students
+📋 Display all students
+🔍 Search student by ID
+✏️ Update student information
+❌ Delete student records
+💾 Persistent storage using students.dat
