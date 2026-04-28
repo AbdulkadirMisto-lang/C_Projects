@@ -18,7 +18,3 @@ It allows you to manage student records using binary file storage.
 ## ⚙️ Installation & Compilation
 Clone the repository and compile using `gcc` or `make`:
 
-```bash
-git clone https://github.com/your-username/student-management-system.git
-cd student-management-system
-make
